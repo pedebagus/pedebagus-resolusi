@@ -1,0 +1,8 @@
+Langkah-Langkah Pembuatan Program
+
+1.Mengidentifikasikan MaslahMengenal permesalahan yang ingin diselesaikan.
+2.Membuat rumusan untuk pemecahan masalah dan kita dapat membuat rumusan algoritma untuk pemecahan masalah tersebut.
+  Dapat disusun dalam bentuk pseudocode maupun flowchartEx: A.PseudocodeMulaiInput (Bilangan 1)Input (Bilangan 2)Hasil = Bil. 1 + Bil. 2Output (Hasil)Selesai.
+3.Implementasi & CodingMelibatkan bahasa pemrograman, dengan menentukan bahasa program apa yang akan dipilih.
+4.Testing (menguji coba) dan Membuat DokumentasiTahap ini adalah tahap pengujian terhadap perogram dengan tujuan untuk mengetahuin apakah telah tepat memberi solusi
+  dari permasalahan yang sebelumnya muncul.
