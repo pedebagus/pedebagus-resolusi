@@ -1,4 +1,4 @@
-Langkah-Langkah Pembuatan Program
+#Langkah-Langkah Pembuatan Program
 
 1.Mengidentifikasikan Maslah, Mengenal permesalahan yang ingin diselesaikan.
 2.Membuat rumusan untuk pemecahan masalah dan kita dapat membuat rumusan algoritma untuk pemecahan masalah tersebut.
@@ -6,3 +6,25 @@ Langkah-Langkah Pembuatan Program
 3.Implementasi & Coding melibatkan bahasa pemrograman, dengan menentukan bahasa program apa yang akan dipilih.
 4.Testing (menguji coba) dan Membuat Dokumentasi tahap ini adalah tahap pengujian terhadap perogram dengan tujuan untuk mengetahuin apakah telah tepat memberi solusi
   dari permasalahan yang sebelumnya muncul.
+  
+  
+#Jenis-Jenis Type Data
+
+1.Type sederhana (simple type)
+  -Type ordinal ( untuk semua bil. Kecuali bil real)
+      *integer [-32768 ... 32767] 2 bytes@ shortint [-128 .. 127 ] 1 bytes
+      *longint [ -2147483648 ... 2147483647 ] 4 bytes
+      *boolean [ benar .. salah ] 1 bytes
+      *char [ untuk karakter 1 huruf ] ‘A’ 1 bytes ( ASCII )
+      *bytes [ 0 ... 255 ] 1 bytesb.
+  -Type real ( untuk bil. Desimal) 6 bytes
+2.Type stering (data yang berisi barisan karakteristik) ‘INFORMASI’
+3.Type terstruktur ( structured type) untuk ukuran tempat
+  a.Larik ( array ) mempunyai jumlah data dalam jumlah tetap, tapi dengan type data yang sama
+    contoh : [ 1 ... 100 ]
+  b.Rekaman ( record ) sama dengan array, tapi rekaman tidak harus dengan type data yang sama
+  c.Himpunan ( set ) kumpulan objek yang mempunyai type data yang sama
+  d. Berkas ( file ) kumpulan sejumlah komponen yang bertipe data sama.
+4.Type pointer (Type data yang berisi alamat memory dari sebuah variabel)
+  Contoh Type ARRAY :VAR nilai : ARRAY [1...maks_mhs] of char
+  Contoh Type RECORD :TYPE rec_mhs = recordNim: string (10) ;Nama : string (20) ;Jur : stering (15)End;
